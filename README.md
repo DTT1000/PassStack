@@ -2,7 +2,7 @@
 
 **PassStack** is a SwiftUI component inspired by Apple’s Wallet app for creating interactive, animated pass stacks. It provides smooth animations, seamless transitions, and a visually engaging way to display passes.  
 
-https://github.com/user-attachments/assets/ab7fd611-9fa7-43c3-9faa-72dd4cee8874
+https://github.com/user-attachments/assets/7ce99698-8ef9-49e7-a790-60198e344d31
 
 ## Features  
 ✅ Animated pass stacking and transitions  
